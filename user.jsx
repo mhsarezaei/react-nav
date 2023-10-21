@@ -3,3 +3,7 @@
       phone: "",
   })
 console.log(user); // 2nd time!
+
+const onSignUp = async () => {
+    
+};
